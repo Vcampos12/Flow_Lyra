@@ -5,6 +5,15 @@ cells:
   '1':
     label:
       dataRef: '1'
+  data1:
+    label:
+      dataRef: data1
+  data2:
+    label:
+      dataRef: data2
+  data3:
+    label:
+      dataRef: data3
   server1:
     label:
       dataRef: server1
