@@ -11,24 +11,9 @@ cells:
   B:
     label:
       dataRef: B
-  SrjY5U5Lp4LGjue5XJBE-1:
-    label:
-      dataRef: SrjY5U5Lp4LGjue5XJBE-1
   SrjY5U5Lp4LGjue5XJBE-10:
     label:
       dataRef: SrjY5U5Lp4LGjue5XJBE-10
-  SrjY5U5Lp4LGjue5XJBE-2:
-    label:
-      dataRef: SrjY5U5Lp4LGjue5XJBE-2
-  SrjY5U5Lp4LGjue5XJBE-3:
-    label:
-      dataRef: SrjY5U5Lp4LGjue5XJBE-3
-  SrjY5U5Lp4LGjue5XJBE-5:
-    label:
-      dataRef: SrjY5U5Lp4LGjue5XJBE-5
-  SrjY5U5Lp4LGjue5XJBE-6:
-    label:
-      dataRef: SrjY5U5Lp4LGjue5XJBE-6
   SrjY5U5Lp4LGjue5XJBE-7:
     label:
       dataRef: SrjY5U5Lp4LGjue5XJBE-7
@@ -38,3 +23,18 @@ cells:
   SrjY5U5Lp4LGjue5XJBE-9:
     label:
       dataRef: SrjY5U5Lp4LGjue5XJBE-9
+  internet:
+    label:
+      dataRef: internet
+  router:
+    label:
+      dataRef: router
+  server1:
+    label:
+      dataRef: server1
+  server2:
+    label:
+      dataRef: server2
+  server3:
+    label:
+      dataRef: server3
