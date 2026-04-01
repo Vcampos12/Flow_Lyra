@@ -5,30 +5,6 @@ cells:
   '1':
     label:
       dataRef: '1'
-  A:
-    label:
-      dataRef: A
-  B:
-    label:
-      dataRef: B
-  SrjY5U5Lp4LGjue5XJBE-10:
-    label:
-      dataRef: SrjY5U5Lp4LGjue5XJBE-10
-  SrjY5U5Lp4LGjue5XJBE-7:
-    label:
-      dataRef: SrjY5U5Lp4LGjue5XJBE-7
-  SrjY5U5Lp4LGjue5XJBE-8:
-    label:
-      dataRef: SrjY5U5Lp4LGjue5XJBE-8
-  SrjY5U5Lp4LGjue5XJBE-9:
-    label:
-      dataRef: SrjY5U5Lp4LGjue5XJBE-9
-  internet:
-    label:
-      dataRef: internet
-  router:
-    label:
-      dataRef: router
   server1:
     label:
       dataRef: server1
